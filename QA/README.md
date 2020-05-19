@@ -7,7 +7,8 @@
 ## Opinions
  1. In your opinion, what makes for "High Quality" software?
  1. Where does software quality come from?
-
+ 1. When is a software project "done"?
+ 
 ## Scenarios
 ### Starting a project
 We are starting a brand new engagement with a new client. The client has some experience with software development, and professional services. The project will be to develop, deliver, and hand off to internal resources an analytical tool that empowers users to look for, and track activity in, accounts that are engaged in suspicious activities.
